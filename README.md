@@ -71,9 +71,10 @@
   Supports better decision-making for healthy lifestyle improvements.   
 
   # Screenshots/Demos
-   - <a href="https://github.com/PrajitVijayaRaj/Data-Visualization-Dashboard-DP/blob/main/Screenshot%202026-03-27%20180203.png"> </a>
-   - <a href="https://github.com/PrajitVijayaRaj/Data-Visualization-Dashboard-DP/blob/main/Screenshot%202026-03-27%20180225.png"> </a>
-   - <a href="https://github.com/PrajitVijayaRaj/Data-Visualization-Dashboard-DP/blob/main/Screenshot%202026-03-27%20180246.png"> </a>
-   - <a href="https://github.com/PrajitVijayaRaj/Data-Visualization-Dashboard-DP/blob/main/Screenshot%202026-03-27%20183509.png"> </a>
-     
+
+<img width="1341" height="750" alt="Screenshot 2026-03-27 180246" src="https://github.com/user-attachments/assets/032b22f1-2e22-4894-9439-110d00fdeebf" />
+<img width="1349" height="747" alt="Screenshot 2026-03-27 180225" src="https://github.com/user-attachments/assets/59b287ca-9b5c-4301-88d8-e5869a47d3c5" />
+<img width="1348" height="736" alt="Screenshot 2026-03-27 180203" src="https://github.com/user-attachments/assets/2871da54-c08c-4ed8-9531-04e626459b64" />
+<img width="944" height="528" alt="Screenshot 2026-03-27 183509" src="https://github.com/user-attachments/assets/b6b734e7-9164-428f-89a0-3df81abb584e" />
+
    
